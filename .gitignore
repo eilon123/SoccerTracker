@@ -1,0 +1,5 @@
+data/
+!notebooks/tracker.ipynb
+*.avi
+soccer_tracker/detection_models/retinanet/resnet50_coco_best_v2.1.0.h5
+*.pyc
